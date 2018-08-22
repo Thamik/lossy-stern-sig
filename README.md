@@ -37,4 +37,6 @@ The Keccak Code Package is mainly in the public domain, however, there exist som
 
 The cpucycles library is in the public domain.
 
+The files *api.h*, *PQCgenKAT_sign.c*, *rng.c*, and *rng.h* are taken from the interface for the NIST PQC competition and were created by Bassham, Lawrence E (Fed).
+
 All other code was written by Dominik Leichtle and is released to the public domain.
